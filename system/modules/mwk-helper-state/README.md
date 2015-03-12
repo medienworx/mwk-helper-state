@@ -7,7 +7,7 @@
 
 **Anleitung:**
 
-In deiner DCA-Datei oberhalb von ```$GLOBALS ['TL_DCA]...``` wird der Pfad zur Lang-Datei ```\System::loadLanguageFile('states');``` eingefügt:
+In deiner DCA-Datei oberhalb von ```$GLOBALS ['TL_DCA]...``` wird der Pfad zur Lang-Datei ```\System::loadLanguageFile('state');``` eingefügt:
 
 
 z.B Bei einem **SELECT Menü** im DCA-File unter Fields bei ```'options' ```
