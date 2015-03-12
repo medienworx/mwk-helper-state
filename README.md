@@ -14,7 +14,7 @@ z.B Bei einem **SELECT Menü** im DCA-File unter Fields bei ```'options' ```
 wird als Wert ```&$GLOBALS['TL_LANG']['STATE'],``` (alle Bundesländer werden geladen) oder
 ```&$GLOBALS['TL_LANG']['STATE']['DE'],``` (Bundesländer von Deutschland werden geladen) oder
 ```&$GLOBALS['TL_LANG']['STATE']['AT'],``` (Bundesländer von Österreich werden geladen) oder
-```&$GLOBALS['TL_LANG']['STATE']['AT'],``` (Kantons von der Schweiz werden geladen)  eingebunden,
+```&$GLOBALS['TL_LANG']['STATE']['CH'],``` (Kanton von der Schweiz werden geladen) eingebunden,
 die Bundesländer werden jetzt über die Lang-Datei geladen.
 
 
