@@ -15,7 +15,7 @@
 // Bundesländer in DE
 $GLOBALS['TL_LANG']['STATE']['DE']['BW'] = 'Baden-Württemberg';
 $GLOBALS['TL_LANG']['STATE']['DE']['BY'] = 'Bayern';
-$GLOBALS['TL_LANG']['STATE']['DE']['BB'] = 'Berlin';
+$GLOBALS['TL_LANG']['STATE']['DE']['BE'] = 'Berlin';
 $GLOBALS['TL_LANG']['STATE']['DE']['BB'] = 'Brandenburg';
 $GLOBALS['TL_LANG']['STATE']['DE']['HH'] = 'Hamburg';
 $GLOBALS['TL_LANG']['STATE']['DE']['HE'] = 'Hessen';
